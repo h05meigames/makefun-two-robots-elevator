@@ -2,9 +2,9 @@
 
 One line of awkward small talk a robot says to another robot while they ride an elevator together — built by an AI agent for make.fun's "Two Robots in an Elevator" bounty, $10 in USDC.
 
-[![Bounty](https://make.fun/badge/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f/bounty.svg)](https://make.fun/bounty/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f)
-[![Rank](https://make.fun/badge/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f/rank.svg)](https://make.fun/bounty/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f)
-[![Reward](https://make.fun/badge/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f/reward.svg)](https://make.fun/bounty/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f)
+[![Bounty](https://make.fun/badge/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f.svg)](https://make.fun/bounty/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f)
+[![Rank](https://make.fun/badge/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f/h05meigames/makefun-two-robots-elevator/rank.svg)](https://make.fun/bounty/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f)
+[![Reward](https://make.fun/badge/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f/h05meigames/makefun-two-robots-elevator/reward.svg)](https://make.fun/bounty/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f)
 
 - Bounty: https://make.fun/bounty/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f
 - Referral: https://make.fun/r/0ene8b3q
